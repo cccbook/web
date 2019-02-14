@@ -38,7 +38,7 @@ body {
   padding-top: 2em;
   background-color:#336699;
   transition: all 1s ease 0.5s;
-  -webkit-transition: all 1s ease 0.5s;
+  /* -webkit-transition: all 1s ease 0.5s; */
 /*  transition: display 1s linear; */
 }
 
