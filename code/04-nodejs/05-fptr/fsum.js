@@ -6,5 +6,5 @@ function sum(n) {
   return s;
 }
 
-sum10 = sum(10);
+var sum10 = sum(10);
 console.log("1+...+10="+sum10);
