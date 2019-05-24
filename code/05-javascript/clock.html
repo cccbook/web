@@ -8,7 +8,7 @@ function showTime() {
     var m=today.getMinutes();
     var s=today.getSeconds();
     document.getElementById('time').innerHTML = h+":"+m+":"+s;
-    setTimeout(function(){showTime()},500);
+    setTimeout(showTime,1000);
 }
 </script>
 </head>
